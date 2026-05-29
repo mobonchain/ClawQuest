@@ -1,0 +1,9 @@
+{
+  "game_api_base_url":      "https://api.km.cocweb3.com",
+  "request_timeout_ms":     8000,
+  "poll_interval_ms":       1000,
+  "round_interval_ms":      2000,
+  "max_consecutive_errors": 3,
+  "mining_duration_s":      60,
+  "language":               "en_US"
+}
