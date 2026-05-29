@@ -32,6 +32,7 @@
    ```
 
 ### Bước 3: Setup File `profiles.json`
+- Nếu `"proxy": "null"` sẽ chạy qua local không dùng proxy
 
 ### Bước 4: Chạy Tool
 
