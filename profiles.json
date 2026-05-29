@@ -1,0 +1,4 @@
+[
+  { "label": "Name1", "api_code": "your_api_code_1", "proxy": "http://username:pass@ip:port" },
+  { "label": "Name2", "api_code": "your_api_code_2", "proxy": "null" }
+]
